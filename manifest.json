@@ -1,0 +1,25 @@
+{
+    "name": "Italy Serie A",
+    "gcm_sender_id": "1057640402612",
+    "short_name": "Serie A",
+    "description": "Serie A Web App",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00BFFF",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+          "src": "/img/icon512.png",
+          "type": "image/png",
+          "sizes": "512x512",
+          "purpose": "any maskable"
+        
+        },
+        {
+          "src": "/img/icon192.png",
+          "type": "image/png",
+          "sizes": "192x192",
+          "purpose": "any maskable"
+        }
+      ]
+}
